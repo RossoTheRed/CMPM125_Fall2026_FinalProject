@@ -4,6 +4,9 @@
 - [Final Project Requirements](https://canvas.ucsc.edu/courses/95933/assignments/885486)
 - [Miro Design Document](https://miro.com/app/board/uXjVETpf4eg=/)
 - [Shared Asset Google Drive](https://drive.google.com/drive/folders/1If2cR-KuTH9dCvP-ftZUHpI-Z2cS2_FA)
+- [The New (Worse) Unity Docs](https://docs.unity.com/en-us/engine/6000.6/script-reference)
+- [C# Docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [Unity Asset Store](https://assetstore.unity.com/)
 
 ## Concept
 **Theme:** Force Of Habit
